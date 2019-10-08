@@ -14,6 +14,7 @@ I am new to Javascript, hence what I wrote and made here can be just a common se
 However for those who are new like myself and struggling for the implementation, I put article here. 
 
 Pls refer to below link to see demo
+
 https://randomwalkjapan.blogspot.com/2019/10/mobilenetusing-mobilenet-inside-blogspot.html
 
 Enjoy! 
